@@ -1,0 +1,13 @@
+
+# ct-snmp
+various APC PDUs and other UPSs with network control capabilities
+
+Installed by Daron Chabot at 23ID, but we don't know where the source code is maintained.
+
+Check db for comprehensive list of devices, which include:
+ * APC AP7900
+ * APC AP7930
+ * APC AP8959
+ * UPS
+ * wiener
+
