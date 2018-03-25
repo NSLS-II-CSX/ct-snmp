@@ -7,7 +7,6 @@ O.*
 config
 st.cmd
 envPaths
-records.db
+records.dbl
 .hg/*
 .hgignore
-mibs

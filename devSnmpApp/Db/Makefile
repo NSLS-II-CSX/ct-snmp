@@ -10,11 +10,11 @@ include $(TOP)/configure/CONFIG
 #----------------------------------------------------
 # Create and install (or just install)
 # databases, templates, substitutions like this
-DB += snmpWienerDemo.db
+#DB += snmpWienerDemo.db
 DB += AP7900.db
-DB += AP7930.db
-DB += AP8959.db
-DB += ups.db
+#DB += AP7930.db
+#DB += AP8959.db
+#DB += ups.db
 
 #----------------------------------------------------
 # If <anyname>.db template is not named <anyname>*.template add
