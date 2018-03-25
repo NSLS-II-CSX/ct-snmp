@@ -1,0 +1,4 @@
+NAME=ct-snmp
+PORT=4003
+HOST=xf23ida-ioc1
+USER=softioc
